@@ -1,5 +1,5 @@
 # Workbench
 
-Workbench with removable miter saw table
+Workbench with modular miter saw table and removable fences.
 
-![Workbench 3D Rendering](workbench.png)
+![Workbench 3D Rendering](workbench.jpg)
